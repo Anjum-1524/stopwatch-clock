@@ -21,7 +21,7 @@ Clone this repo:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/stopwatch-clock.git
+git clone https://github.com/Anjum-1524/stopwatch-clock
 Open the stopwatch.html file in your browser.
 
 No extra setup needed — it’s pure HTML, CSS, and JS!
